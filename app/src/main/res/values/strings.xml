@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reclutamiento Aspex</string>
+
+    <string name="message_network_problem">Network Connection Problem</string>
+</resources>
